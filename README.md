@@ -1,6 +1,6 @@
 # Monte_Carlo_Photography README
 
-We have 3 files: Russian_Image_Alignment.m, pyramid_scheme_tnt.m, shift_image_tnt.m, automatic_contrast.m.
+We have 4 files: Russian_Image_Alignment.m, pyramid_scheme_tnt.m, shift_image_tnt.m, automatic_contrast.m.
 
 Russian_Image_Alignment.m is the main program and it has the main script.
 - It reads in the image and makes the pixels into doubles
