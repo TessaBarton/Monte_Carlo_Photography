@@ -10,5 +10,4 @@ function  [x_guess, y_guess] = pyramid_scheme_tnt( target, image )
        % align
        [x_guess, y_guess] = shift_image_tnt( target, image, 4, 2*x_shift, 2*y_shift );
    end
-  
 end
